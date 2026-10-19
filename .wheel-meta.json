@@ -1,0 +1,22 @@
+{
+  "wheel_id": 459,
+  "structure": "umbrella",
+  "slug": "toowoombafencing-150",
+  "project": "fencing-contractors-toowoomba-2a4242d33f5cad2631a003e54cfabf29a",
+  "parent_t1_ref": "toowoombafencing-006",
+  "node_role": "buffer",
+  "money_target": "toowoombafencing.au",
+  "primary_kw": "fencing contractors toowoomba",
+  "intended_url": "https://sitesau.github.io/toowoombafencing-150/",
+  "tier": "T2",
+  "writeback_nonce": "d758d830d40c342f",
+  "links": [
+    {
+      "target_url": "https://sites-e470-1.web.app/fencing-contractors-toowoomba-toowoombafencing-006/",
+      "anchor": "Fencing Contractors Toowoomba: A Practical Quote Guide",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "topical"
+    }
+  ]
+}
